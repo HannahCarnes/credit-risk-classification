@@ -17,11 +17,11 @@ In this section, describe the analysis you completed for the machine learning mo
 Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of all machine learning models.
 
 * Machine Learning Model 1:
-  *Accuracy is .99. 
-  *Precision is 1.00 for predicted 0 values.
-  *Precision is 0.85 for predicted 1 values.
-  *Recall is 0.99 for actual 0 values.
-  *Recall is 0.91 for actual 1 values.
+*Accuracy is .99. 
+*Precision is 1.00 for predicted 0 values.
+*Precision is 0.85 for predicted 1 values.
+*Recall is 0.99 for actual 0 values.
+*Recall is 0.91 for actual 1 values.
 
   * Description of Model 1 Accuracy, Precision, and Recall scores.
 
